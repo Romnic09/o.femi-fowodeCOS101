@@ -7,8 +7,8 @@ fn main() {
         ("Acer", 1, 250_000.00),
     ];
 
-    let mut ta = 0.0;
-    for (_, _, amt) in &sales {
+    let mut ta:f64 = 0.0;
+    for (_, _, amt:f64) in &sales {
         ta += amt;
     }
     let avg = ta / sales.len() ;
