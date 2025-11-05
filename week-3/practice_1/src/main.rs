@@ -1,5 +1,5 @@
 fn main() {
-    let school_string ="School of science and technology";
+    let school_string="School of science and technology";
     let rating_float:f32=5.0;
     let is_growling_boolean:bool=true;
     let department_integer:u8=3;

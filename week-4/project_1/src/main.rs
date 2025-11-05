@@ -23,9 +23,9 @@ fn main() {
     
 }else if disc==0.0 {
     let root:f32 = -b/2.0*a;
-    println!("there is one root {}",root)
+    println!("there is one root {}",root);
 }else {
-    println!("There is an error")
+    println!("There is an error");
 }
 
 
