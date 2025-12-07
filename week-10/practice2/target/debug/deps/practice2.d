@@ -1,0 +1,5 @@
+C:\Users\Rominiyi Fowode\Download\o.femi-fowodeCSC101\week-10\practice2\target\debug\deps\practice2.d: src\main.rs
+
+C:\Users\Rominiyi Fowode\Download\o.femi-fowodeCSC101\week-10\practice2\target\debug\deps\practice2.exe: src\main.rs
+
+src\main.rs:
